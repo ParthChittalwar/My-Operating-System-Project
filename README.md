@@ -58,7 +58,7 @@ winget install Ninja-build.Ninja
 ### 1. Clone the Repository
 
 ```powershell
-git clone https://github.com/ParthChittalwar/NovaOS.git
+git clone https://github.com/ParthChittalwar/My-Operating-System-Project
 cd NovaOS
 ```
 
