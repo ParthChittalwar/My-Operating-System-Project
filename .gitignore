@@ -1,0 +1,29 @@
+# Build directories
+build/
+bin/
+esp/
+
+# Toolchain downloads & binaries
+toolchain/local/
+
+# Firmware / VM binaries
+OVMF.fd
+OVMF_VARS.fd
+OVMF_CODE.fd
+*.img
+*.iso
+*.bin
+*.efi
+*.elf
+
+# IDE files & OS metadata
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.vcxproj
+*.filters
+.DS_Store
+Thumbs.db
